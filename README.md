@@ -38,10 +38,10 @@ karimi-portfolio/
 ---
 
 ## 👥 Team Members
-Name | GitHub Username
-Fridasam Karimi | @FridasamKarimi
-Bryan Mwalwala | @bryan1028
-Zipporah Rehema | @zippyrehema123 | 
+
+@FridasamKarimi
+@bryan1028
+@zippyrehema123
 ---
 
 ## 📋 Our Approach
