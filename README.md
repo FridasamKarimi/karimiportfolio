@@ -39,9 +39,12 @@ karimi-portfolio/
 
 ## 👥 Team Members
 
-@FridasamKarimi
-@bryan1028
-@zippyrehema123
+---
+
+- [@fridasamkarimi](https://github.com/fridasamkarimi)
+- [@bryan1028](https://github.com/bryan1028) 
+- [@zippyrehema123](https://github.com/zippyrehema123) 
+
 ---
 
 ## 📋 Our Approach
