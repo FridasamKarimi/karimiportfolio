@@ -83,8 +83,8 @@
   .glow-text {
     font-size: 3rem;
     font-weight: 600;
-    color: #A78BFA;
-    text-shadow: 0 0 5px #A78BFA, 0 0 10px #A78BFA;
+    color: #f1f5f4;
+    text-shadow: 0 0 5px #ffffff, 0 0 10px #A78BFA;
   }
   
   .social-links {
